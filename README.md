@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @P3dro-Fernandes
 - 👨‍💻 I'm a beginner student in Software Development
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 👀 I’m interested in FullStack Development
+- 🌱 I’m currently learning Vue.js and Django
 - 📫 How to reach me pedroafernandes2003@gmail.com / www.linkedin.com/in/pedro-fernandes-18143b232
 
 
